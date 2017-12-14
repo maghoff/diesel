@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IncompleteInsertStatement","The structure returned by [`insert_into`]."],["InsertStatement","A fully constructed insert statement."]],"trait":[["UndecoratedInsertRecord","Marker trait to indicate that no additional operations have been added to a record for insert."]]});

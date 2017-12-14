@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["derive_as_changeset",""],["derive_associations",""],["derive_identifiable",""],["derive_insertable",""],["derive_queryable",""],["derive_queryable_by_name",""]]});
